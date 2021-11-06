@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.4699316b.chunk.css",
-    "main.js": "/static/js/main.343c3abc.chunk.js",
-    "main.js.map": "/static/js/main.343c3abc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.646e3367.js",
-    "runtime-main.js.map": "/static/js/runtime-main.646e3367.js.map",
-    "static/js/2.a17888fa.chunk.js": "/static/js/2.a17888fa.chunk.js",
-    "static/js/2.a17888fa.chunk.js.map": "/static/js/2.a17888fa.chunk.js.map",
-    "static/js/3.5d7c96d8.chunk.js": "/static/js/3.5d7c96d8.chunk.js",
-    "static/js/3.5d7c96d8.chunk.js.map": "/static/js/3.5d7c96d8.chunk.js.map",
+    "main.css": "/static/css/main.1ab57cb1.chunk.css",
+    "main.js": "/static/js/main.0849009d.chunk.js",
+    "main.js.map": "/static/js/main.0849009d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b8011cfc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b8011cfc.js.map",
+    "static/css/2.d3669ef8.chunk.css": "/static/css/2.d3669ef8.chunk.css",
+    "static/js/2.1c681526.chunk.js": "/static/js/2.1c681526.chunk.js",
+    "static/js/2.1c681526.chunk.js.map": "/static/js/2.1c681526.chunk.js.map",
+    "static/js/3.36cb16ba.chunk.js": "/static/js/3.36cb16ba.chunk.js",
+    "static/js/3.36cb16ba.chunk.js.map": "/static/js/3.36cb16ba.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.4699316b.chunk.css.map": "/static/css/main.4699316b.chunk.css.map",
-    "static/js/2.a17888fa.chunk.js.LICENSE.txt": "/static/js/2.a17888fa.chunk.js.LICENSE.txt",
-    "static/media/joebosoft.d23bcb7e.svg": "/static/media/joebosoft.d23bcb7e.svg"
+    "static/css/2.d3669ef8.chunk.css.map": "/static/css/2.d3669ef8.chunk.css.map",
+    "static/css/main.1ab57cb1.chunk.css.map": "/static/css/main.1ab57cb1.chunk.css.map",
+    "static/js/2.1c681526.chunk.js.LICENSE.txt": "/static/js/2.1c681526.chunk.js.LICENSE.txt",
+    "static/media/100.css": "/static/media/lato-latin-ext-100-normal.ba2756ab.woff2",
+    "static/media/300.css": "/static/media/lato-latin-ext-300-normal.dd124df8.woff2",
+    "static/media/400.css": "/static/media/lato-latin-ext-400-normal.b267ec5a.woff2",
+    "static/media/700.css": "/static/media/lato-latin-ext-700-normal.4223b364.woff2",
+    "static/media/900.css": "/static/media/lato-latin-ext-900-normal.507055b9.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.646e3367.js",
-    "static/js/2.a17888fa.chunk.js",
-    "static/css/main.4699316b.chunk.css",
-    "static/js/main.343c3abc.chunk.js"
+    "static/js/runtime-main.b8011cfc.js",
+    "static/css/2.d3669ef8.chunk.css",
+    "static/js/2.1c681526.chunk.js",
+    "static/css/main.1ab57cb1.chunk.css",
+    "static/js/main.0849009d.chunk.js"
   ]
 }
